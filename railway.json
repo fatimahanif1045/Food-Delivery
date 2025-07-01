@@ -5,10 +5,8 @@
     "startCommand": "cd backend && npm start"
   },
   "nixpacks": {
-    "phases": {
-      "setup": {
-        "nixPkgs": ["nodejs_18"]
-      }
+    "languages": {
+      "nodejs": "18"
     }
   }
 }
