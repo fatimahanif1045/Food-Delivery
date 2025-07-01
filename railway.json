@@ -6,7 +6,7 @@
   },
   "nixpacks": {
     "languages": {
-      "nodejs": "18"
+      "nodejs": "20"
     }
   }
 }
